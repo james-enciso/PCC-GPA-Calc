@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	1A457ECC176E916300CCAFE2 /* PCC_GPA_CalcAppDelegate.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.m */;
+		functionName = "-calculatev:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = "PCC GPA Calc";
+		modificationTime = 431167267.390385;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1A62AB0719B30A10004EA4DF /* Functions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 702}}";
+			sepNavSelRange = "{1577, 35}";
+			sepNavVisRange = "{36, 1582}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	1A62AB0819B30A10004EA4DF /* Functions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1209, 5577}}";
+			sepNavSelRange = "{3980, 0}";
+			sepNavVisRange = "{0, 1348}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	1A62AB0A19B30A23004EA4DF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PCC_GPA_Calc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/James/Desktop/Random Stuff/Development Folder/Xcode Source Projects/PCC GPA Calc/PCC_GPA_Calc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1A62AB4019B316C7004EA4DF /* Functions.m:94 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1A62AB0819B30A10004EA4DF /* Functions.m */;
+		functionName = "-getUnitValue:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 94;
+		location = "PCC GPA Calc";
+		modificationTime = 431167245.938325;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1A62AB4419B316E0004EA4DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0719B30A10004EA4DF /* Functions.h */;
+		name = "Functions.h: 52";
+		rLen = 0;
+		rLoc = 1612;
+		rType = 0;
+		vrLen = 575;
+		vrLoc = 403;
+	};
+	1A62AB4619B316E0004EA4DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.m */;
+		name = "PCC_GPA_CalcAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 93;
+	};
+	1A681D5F1A31A835004FFBAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0819B30A10004EA4DF /* Functions.m */;
+		name = "Functions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 201;
+		vrLoc = 36;
+	};
+	1A681D601A31A835004FFBAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0819B30A10004EA4DF /* Functions.m */;
+		name = "Functions.m: 197";
+		rLen = 0;
+		rLoc = 3980;
+		rType = 0;
+		vrLen = 1348;
+		vrLoc = 0;
+	};
+	1A681D611A31A835004FFBAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0719B30A10004EA4DF /* Functions.h */;
+		name = "Functions.h: 51";
+		rLen = 35;
+		rLoc = 1577;
+		rType = 0;
+		vrLen = 1582;
+		vrLoc = 36;
+	};
+	1A85A9E1169F76B500DF8765 /* PCC GPA Calc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "PCC GPA Calc";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	1A85A9F2169F76F700DF8765 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1A85A9F3169F76F700DF8765 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1A969D3C19BFB85000FF7DE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0819B30A10004EA4DF /* Functions.m */;
+		name = "Functions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 19;
+	};
+	1A969D3D19BFB85000FF7DE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0819B30A10004EA4DF /* Functions.m */;
+		name = "Functions.m: 197";
+		rLen = 0;
+		rLoc = 3980;
+		rType = 0;
+		vrLen = 1348;
+		vrLoc = 0;
+	};
+	1A969D3E19BFB85000FF7DE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A62AB0719B30A10004EA4DF /* Functions.h */;
+		name = "Functions.h: 51";
+		rLen = 35;
+		rLoc = 1577;
+		rType = 0;
+		vrLen = 1582;
+		vrLoc = 36;
+	};
+	1AE47C0B19B4393600249882 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.h */;
+		name = "PCC_GPA_CalcAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 192;
+		vrLoc = 155;
+	};
+	256AC3D80F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 286}}";
+			sepNavSelRange = "{340, 0}";
+			sepNavVisRange = "{155, 192}";
+			sepNavWindowFrame = "{{15, 4}, {750, 774}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {509, 520}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{93, 292}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1A85A9E1169F76B500DF8765 /* PCC GPA Calc */;
+		activeTarget = 8D1107260486CEB800E47090 /* PCC GPA Calc */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* PCC GPA Calc */,
+		);
+		breakpoints = (
+			1A457ECC176E916300CCAFE2 /* PCC_GPA_CalcAppDelegate.m:20 */,
+			1A62AB4019B316C7004EA4DF /* Functions.m:94 */,
+		);
+		codeSenseManager = 1A85A9F3169F76F700DF8765 /* Code sense */;
+		executables = (
+			1A85A9E1169F76B500DF8765 /* PCC GPA Calc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 439461903;
+			PBXWorkspaceStateSaveDate = 439461903;
+		};
+		perUserProjectItems = {
+			1A62AB0A19B30A23004EA4DF /* PlistBookmark */ = 1A62AB0A19B30A23004EA4DF /* PlistBookmark */;
+			1A62AB4419B316E0004EA4DF /* PBXTextBookmark */ = 1A62AB4419B316E0004EA4DF /* PBXTextBookmark */;
+			1A62AB4619B316E0004EA4DF /* PBXTextBookmark */ = 1A62AB4619B316E0004EA4DF /* PBXTextBookmark */;
+			1A681D5F1A31A835004FFBAB /* PBXTextBookmark */ = 1A681D5F1A31A835004FFBAB /* PBXTextBookmark */;
+			1A681D601A31A835004FFBAB /* PBXTextBookmark */ = 1A681D601A31A835004FFBAB /* PBXTextBookmark */;
+			1A681D611A31A835004FFBAB /* PBXTextBookmark */ = 1A681D611A31A835004FFBAB /* PBXTextBookmark */;
+			1A969D3C19BFB85000FF7DE4 /* PBXTextBookmark */ = 1A969D3C19BFB85000FF7DE4 /* PBXTextBookmark */;
+			1A969D3D19BFB85000FF7DE4 /* PBXTextBookmark */ = 1A969D3D19BFB85000FF7DE4 /* PBXTextBookmark */;
+			1A969D3E19BFB85000FF7DE4 /* PBXTextBookmark */ = 1A969D3E19BFB85000FF7DE4 /* PBXTextBookmark */;
+			1AE47C0B19B4393600249882 /* PBXTextBookmark */ = 1AE47C0B19B4393600249882 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1A85A9F2169F76F700DF8765 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* PCC GPA Calc */ = {
+		activeExec = 0;
+		executables = (
+			1A85A9E1169F76B500DF8765 /* PCC GPA Calc */,
+		);
+	};
+}

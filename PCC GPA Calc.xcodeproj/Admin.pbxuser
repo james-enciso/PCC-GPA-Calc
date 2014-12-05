@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 714}}";
+			sepNavSelRange = "{409, 0}";
+			sepNavVisRange = "{50, 387}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1064}}";
+			sepNavSelRange = "{154, 0}";
+			sepNavVisRange = "{1137, 506}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 84E9E06616E1E23300C643FA /* PCC GPA Calc */;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D1107260486CEB800E47090 /* PCC GPA Calc */;
+		codeSenseManager = 84E9E07616E1E25F00C643FA /* Code sense */;
+		executables = (
+			84E9E06616E1E23300C643FA /* PCC GPA Calc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 386532245;
+			PBXWorkspaceStateSaveDate = 386532245;
+		};
+		perUserProjectItems = {
+			8407A673170A040C0043448A /* PBXTextBookmark */ = 8407A673170A040C0043448A /* PBXTextBookmark */;
+			8407A674170A040C0043448A /* PlistBookmark */ = 8407A674170A040C0043448A /* PlistBookmark */;
+			8407A675170A040C0043448A /* PBXBookmark */ = 8407A675170A040C0043448A /* PBXBookmark */;
+			8407A676170A040C0043448A /* PBXTextBookmark */ = 8407A676170A040C0043448A /* PBXTextBookmark */;
+			8407A677170A040C0043448A /* PlistBookmark */ = 8407A677170A040C0043448A /* PlistBookmark */;
+			8407A678170A040C0043448A /* PBXTextBookmark */ = 8407A678170A040C0043448A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 84E9E07516E1E25F00C643FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8407A673170A040C0043448A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.h */;
+		name = "PCC_GPA_CalcAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 589;
+	};
+	8407A674170A040C0043448A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PCC_GPA_Calc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Macintosh HD/Users/James/Desktop/Random Stuff/Xcode Source Projects/PCC GPA Calc/PCC_GPA_Calc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8407A675170A040C0043448A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.m */;
+	};
+	8407A676170A040C0043448A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.h */;
+		name = "PCC_GPA_CalcAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 589;
+	};
+	8407A677170A040C0043448A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PCC_GPA_Calc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Macintosh HD/Users/James/Desktop/Random Stuff/Xcode Source Projects/PCC GPA Calc/PCC_GPA_Calc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8407A678170A040C0043448A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* PCC_GPA_CalcAppDelegate.m */;
+		name = "PCC_GPA_CalcAppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 154;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 1137;
+	};
+	84E9E06616E1E23300C643FA /* PCC GPA Calc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "PCC GPA Calc";
+		sourceDirectories = (
+		);
+	};
+	84E9E07516E1E25F00C643FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	84E9E07616E1E25F00C643FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107260486CEB800E47090 /* PCC GPA Calc */ = {
+		activeExec = 0;
+		executables = (
+			84E9E06616E1E23300C643FA /* PCC GPA Calc */,
+		);
+	};
+}
